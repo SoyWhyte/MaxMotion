@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "Entrenamiento de Alta Intensidad: Clave para la Resistencia",
+        "fecha": "14 de abril de 2023",
+        "descripcion": "Los expertos afirman que los entrenamientos de alta intensidad mejoran notablemente la resistencia en menos tiempo. Pruebas recientes muestran un aumento del 20% en rendimiento en solo cuatro semanas.",
+        "img": "https://img.freepik.com/foto-gratis/corre-musica_1098-15214.jpg?t=st=1727625974~exp=1727629574~hmac=5f58b88eb632321de64907fc796b4604db2d2defc5a2bd70ab8fb60b4cb534aa&w=1380"
+    },
+    {
+        "titulo": "Nutrición deportiva: el consumo de proteínas aumenta la recuperación",
+        "fecha": "27 de febrero de 2022",
+        "descripcion": "Especialistas recomiendan incluir proteínas en la dieta para acelerar la recuperación post-entrenamiento y mejorar el tono muscular.",
+        "img": "https://img.freepik.com/foto-gratis/mujer-embarazada-cortando-naranja_23-2148301949.jpg?t=st=1727626057~exp=1727629657~hmac=338a565133678e223627c173b9050dc5896b785bdf8ed6ae4c2694b1ba008953&w=1060"
+    },
+    {
+        "titulo": "Beneficios del Levantamiento de Pesas para la Salud",
+        "fecha": "5 de noviembre de 2023",
+        "descripcion": "Estudios recientes demuestran que el levantamiento de pesas fortalece no solo músculos, sino también huesos. Este tipo de ejercicio también puede reducir el riesgo de osteoporosis en un 15%.",
+        "img": "https://img.freepik.com/foto-gratis/joven-ropa-deportiva-clase-ejercicios-gimnasio_1150-12372.jpg?t=st=1727626089~exp=1727629689~hmac=a63519d0caf3e0ac49c2a0cd956236a276e5980593e80ccb6ad1dbd6b4b9f1bf&w=1380"
+    },
+    {
+        "titulo": "Yoga, la Clave para una Mente y Cuerpo en Armonía",
+        "fecha": "18 de junio de 2021",
+        "descripcion": "Practicar yoga regularmente ayuda a reducir el estrés y mejora la flexibilidad. Un estudio muestra que quienes practican yoga experimentan una disminución del 30% en niveles de ansiedad.",
+        "img": "https://img.freepik.com/foto-gratis/mujer-vista-lateral-meditando-naturaleza_23-2148940305.jpg?t=st=1727626151~exp=1727629751~hmac=1c2ba5f7877bd468c042e41ec70232dee35cb3d3e6cef7a14c63ecd73f3cf119&w=1380"
+    }
+
+]

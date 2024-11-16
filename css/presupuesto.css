@@ -1,0 +1,24 @@
+.formText{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 120px;
+    background-color: var(--primaryFont);
+    color: var(--secondaryBG);
+    padding: 30px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+label {
+    display: contents;
+    margin-bottom: 10px;
+}
