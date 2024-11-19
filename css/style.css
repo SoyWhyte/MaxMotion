@@ -160,7 +160,7 @@ nav ul li a {
     margin: 20px;
 }
 
-#cuotas section{
+#cuotas div{
     padding: 30px;
     display: flex;
     flex-wrap: wrap;
@@ -168,7 +168,7 @@ nav ul li a {
     gap: 100px;
 }
 
-#cuotas section article{
+#cuotas div article{
     padding: 14px;
     width: 15%;
     border: 1px solid #fff;
